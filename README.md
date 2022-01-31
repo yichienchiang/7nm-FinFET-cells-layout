@@ -25,17 +25,22 @@ The project in advanced VLSI course is for creating the standard library of the 
 
 ![OAI21](https://github.com/yichienchiang/7nm-FinFET-cells-layout/blob/76d098b1bede7ea05cfbe366ee9120d20afd3e0a/OAI21_layout.PNG)
 
-#### 7.NOR2
+#### 7.OAI22
 
-![NOR2](https://github.com/yichienchiang/7nm-FinFET-cells-layout/blob/ae83556db88591983a59b0e29dc3cbf0c54d117a/nor2_layout.PNG)
+![OAI22](https://github.com/yichienchiang/7nm-FinFET-cells-layout/blob/05a61c3134ed15d12d1fbecadec652942ddb0793/OAI22_layout.PNG)
 
-#### 8.NOR2
+#### 8.AOI21
 
-![NOR2](https://github.com/yichienchiang/7nm-FinFET-cells-layout/blob/ae83556db88591983a59b0e29dc3cbf0c54d117a/nor2_layout.PNG)
+![AOI21](https://github.com/yichienchiang/7nm-FinFET-cells-layout/blob/05a61c3134ed15d12d1fbecadec652942ddb0793/AOI21_layout.PNG)
 
-#### 9.NOR2
+#### 9.AOI22
 
-![NOR2](https://github.com/yichienchiang/7nm-FinFET-cells-layout/blob/ae83556db88591983a59b0e29dc3cbf0c54d117a/nor2_layout.PNG)
+![AOI22](https://github.com/yichienchiang/7nm-FinFET-cells-layout/blob/05a61c3134ed15d12d1fbecadec652942ddb0793/AOI22_layout.PNG)
+
+#### 10.DFF
+![DFF](https://github.com/yichienchiang/7nm-FinFET-cells-layout/blob/05a61c3134ed15d12d1fbecadec652942ddb0793/DFF_layout1.PNG)
+
+
 
 
 
