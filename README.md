@@ -3,8 +3,7 @@ The project in advanced VLSI course is for creating the standard library of the 
 
 #### 1.Inverter 
 
-![INV](https://github.com/yichienchiang/7nm-FinFET-cells-layout/blob/483811e0c5b250ab10d0770104bcc63fbb064510/inv_layout.PNG) ![NAND2](https://github.com/yichienchiang/7nm-FinFET-cells-layout/blob/ae83556db88591983a59b0e29dc3cbf0c54d117a/nand_layout.PNG)
-
+![INV](https://github.com/yichienchiang/7nm-FinFET-cells-layout/blob/483811e0c5b250ab10d0770104bcc63fbb064510/inv_layout.PNG = 250x250) 
 #### 2.NAND2
 
 ![NAND2](https://github.com/yichienchiang/7nm-FinFET-cells-layout/blob/ae83556db88591983a59b0e29dc3cbf0c54d117a/nand_layout.PNG)
